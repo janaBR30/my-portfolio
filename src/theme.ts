@@ -4,10 +4,10 @@ import { createTheme, responsiveFontSizes } from '@mui/material/styles';
 let theme = createTheme({
   palette: {
     primary: {
-      main: '#7375a5',
+      main: '#2b364a',
     },
     secondary: {
-      main: '#6cf3d5',
+      main: '#7375a5',
     },
   },
   typography: {
